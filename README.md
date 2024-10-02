@@ -1,0 +1,2 @@
+We repeat the experoment and select th etop four features using a mutual information statiscis, in this project ,we can see a small lift in classification accuracy in 76 percent, to be sure that the effect is real, it 
+be a good idea to repeat each experiment multiple times and compar the mean performance, it may also be a good idea to explore using k-fold cross-validation instead of a sample train/test split.
